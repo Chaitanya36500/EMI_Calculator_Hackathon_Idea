@@ -1,0 +1,25 @@
+[2026-02-17 10:39:14] Car Loan EMI: 131525.0 | Interest M1: 11875.000000000002 | Principal M1: 119650.0
+[2026-02-17 10:39:22] Error message: 
+[2026-02-17 10:39:22] Error screenshot saved: test-output/screenshots/Error_1771304962361.png
+[2026-02-17 10:39:22] Error screenshot saved: test-output/screenshots/Error_1771304962667.png
+[2026-02-17 10:39:28] Home Loan EMI: ₹7,82,826
+[2026-02-17 10:39:39] Home Loan amortization table stored in Excel.
+[2026-02-18 09:38:29] Car Loan EMI: 131525.0 | Interest M1: 11875.000000000002 | Principal M1: 119650.0
+[2026-02-18 09:38:35] Error message: 
+[2026-02-18 09:38:35] Error screenshot saved: test-output/screenshots/Error_1771387715648.png
+[2026-02-18 09:38:36] Error screenshot saved: test-output/screenshots/Error_1771387715889.png
+[2026-02-18 17:21:40] Car Loan EMI: 131525.0 | Interest M1: 11875.000000000002 | Principal M1: 119650.0
+[2026-02-18 17:21:47] Error message: 
+[2026-02-18 17:21:48] Error screenshot saved: test-output/screenshots/Error_1771415507919.png
+[2026-02-18 17:21:48] Error screenshot saved: test-output/screenshots/Error_1771415508182.png
+[2026-02-18 17:21:57] Home Loan EMI: ₹11,742
+[2026-02-18 17:22:12] Home Loan amortization table stored in Excel.
+[2026-02-20 09:40:33] Car Loan EMI: 131525.0 | Interest M1: 11875.000000000002 | Principal M1: 119650.0
+[2026-02-20 09:40:40] Error message: 
+[2026-02-20 09:40:41] Error screenshot saved: test-output/screenshots/Error_1771560640892.png
+[2026-02-20 09:40:41] Error screenshot saved: test-output/screenshots/Error_1771560641181.png
+[2026-02-20 09:40:46] Home Loan EMI: ₹7,82,826
+[2026-02-20 09:40:58] Home Loan amortization table stored in Excel.
+[2026-02-20 09:41:51] Car Loan EMI: 131525.0 | Interest M1: 11875.000000000002 | Principal M1: 119650.0
+[2026-02-20 09:41:57] Home Loan EMI: ₹7,82,826
+[2026-02-20 09:42:06] Home Loan amortization table stored in Excel.
